@@ -1,0 +1,16 @@
+{
+  "name": "Tabbypad",
+  "description": "A dead simple extension to take and manage multiple notes effortlessly.",
+  "offline_enabled": true,
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "homepage_url": "https://github.com/amitmerchant1990/tabbypad",
+  "icons": {
+    "16": "icons/extension_icon@16px.png",
+    "48": "icons/extension_icon@48px.png",
+    "128": "icons/extension_icon@128px.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "src/override/override.html"
+  }
+}
