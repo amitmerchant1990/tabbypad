@@ -5,4 +5,6 @@ Tabbypad
 
 [Install via Chrome Web Store](https://chromewebstore.google.com/detail/tabbypad/hbobeldiimcionlhaldkonpngmgjgjim)
 
-![](/assets/tabbypad-1.png)
+![](/assets/tabbypad-1.jpg)
+
+![](/assets/tabbypad-2.jpg)
